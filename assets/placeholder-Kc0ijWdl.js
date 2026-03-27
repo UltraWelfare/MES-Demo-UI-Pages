@@ -1,0 +1,1 @@
+import{w as r,p as e}from"./chunk-EPOLDU6W-DeTAENFR.js";import{i as a}from"./LanguageContext-Bpl-eY6_.js";import{T as n}from"./Typography-DZ8mwp2c.js";const m=r(function(){const{language:o}=a();return e.jsx(n,{children:o==="el"?"Έρχεται σύντομα...":"Coming soon..."})});export{m as default};

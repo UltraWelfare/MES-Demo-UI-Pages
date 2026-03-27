@@ -1,1 +1,0 @@
-import{w as o,p as r}from"./chunk-EPOLDU6W-DeTAENFR.js";import{T as t}from"./Typography-BCt4UTlU.js";import"./DefaultPropsProvider-BVBkfhjl.js";const a=o(function(){return r.jsx(t,{children:"Coming soon..."})});export{a as default};
